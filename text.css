@@ -1,0 +1,55 @@
+P{
+
+        font-family: Roboto;
+        margin-bottom: 0;
+        margin-top: 0;
+}
+
+.para-title{
+
+font-size: 18px;
+font-weight: bold;
+text-align: left;
+width: 300px;
+line-height: 24px;
+ }
+
+.Views-count{
+color: rgb(56, 55, 55);
+font-size: 14px;
+}
+
+.publisher{
+    color:rgb(56, 55, 55);
+    line-height: 50px;
+    font-size: 14px;
+}
+
+.description{
+font-family: Arial;
+color:rgb(56, 55, 55) ;
+width: 300px;
+font-size: 16px;
+line-height: 22px;
+margin-bottom: 200px;
+}
+
+.ending-line{
+
+    font-size: 13px;
+    text-align: center;
+    background-color:rgb(175, 8, 8);
+    color: white;
+    padding-bottom: 16px;
+    padding-top: 16px;
+
+}
+.shop-link{
+
+    font-size: 14px;
+    
+}
+.shop-link:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
